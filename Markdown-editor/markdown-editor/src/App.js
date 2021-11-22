@@ -13,7 +13,7 @@ const App = () => {
             onChange={(e) => setMarkdown(e.target.value)}
           ></textarea>
         </main>
-        <main class="result">
+        <main className="result">
           <ReactMarkdown>{markdown}</ReactMarkdown>
         </main>
       </div>
