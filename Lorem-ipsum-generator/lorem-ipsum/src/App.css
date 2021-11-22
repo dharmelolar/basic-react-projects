@@ -1,0 +1,35 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+body {
+  background-color: rgb(211, 125, 205);
+}
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  padding: 5rem;
+  height: 100%;
+}
+.text-output {
+  margin-top: 2rem;
+}
+input {
+  padding: 0.5rem 2rem;
+  border-radius: 5px;
+  border: 1px solid pink;
+}
+button {
+  padding: 0.5rem 2rem;
+  border-radius: 5px;
+  background-color: #595758;
+}
+p {
+  line-height: 20px;
+  padding-top: 20px;
+}
+@media screen and (max-width: 500px) {
+  input {
+    width: 1rem;
+  }
+}
