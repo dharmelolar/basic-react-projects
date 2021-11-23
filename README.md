@@ -12,10 +12,10 @@ Here's the link to the step-by-step approach that was taken to put this projects
 
 ### Link to live projects
 
-- [Image preview](image-preview.netlify.app)
-- [Markdown editor](mark-down-editor.netlify.app)
+- [Image preview](https://image-preview.netlify.app)
+- [Markdown editor](https://mark-down-editor.netlify.app)
 - [Lorem Ipsum generator](https://lorem-ipsum-text-generator.netlify.app/)
-- [Weather App](https://app.netlify.com/sites/weather-forecasts-project/overview)
+- [Weather App](https://weather-forecasts-project.netlify.app)
 
 ---
 
