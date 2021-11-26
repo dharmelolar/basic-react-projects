@@ -6,7 +6,7 @@
 
 ## Article
 
-Here's the link to the step-by-step approach that was taken to put this projects together.
+Here's the [link](https://www.works-hub.com/learn/basic-projects-using-react-hooks-f68a7) to the step-by-step approach that was taken to put this projects together.
 
 ---
 
