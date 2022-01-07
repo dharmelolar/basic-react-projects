@@ -1,6 +1,6 @@
 ## Basic React Projects
 
-### This project was put together to help beginners build their first react projects and also have projects to showcase on their portfolio.
+#### This project was put together to help beginners build their first react projects and also have projects to showcase on their portfolio.
 
 ---
 
