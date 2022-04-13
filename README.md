@@ -19,4 +19,4 @@ Here is the [link](https://www.works-hub.com/learn/basic-projects-using-react-ho
 
 ---
 
-You can star this repo if you find it useful and you can say hello to me on [twitter](https://twitter.com/that_yhemmygirl) if there's an issue anywhere.
+You can star this repo if you find it useful and you can reach out to me on [twitter](https://twitter.com/that_yhemmygirl) if there's an issue anywhere.
